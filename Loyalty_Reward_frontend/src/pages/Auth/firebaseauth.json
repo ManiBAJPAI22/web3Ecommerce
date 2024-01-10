@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rentalbike-28d8d",
+  "private_key_id": "a010762bb563bb279613a5a366984e092a587ccd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCu1QbwbzmDUmRj\nUlFLEBBjt9wh9Lu+DwObyKOclaDf78ajScx3kNERIJVBWbaodmhlwBkzEM7UHXEB\nhlJqqnuw7sK5Qkgk9/RRLaLBNcsw4QBCRQ4tfPfQIWi8ng/GWKVAwPLuq4YzJYl0\nQ3S3w8WOfdMaoBb+PnBLPByM8qryvXzp6WAg0VVkJ/SFcbGmdO2f305VsdK3v9zP\nPX2QzwGB6KMhk5SYIzykphMlVd9qxi5LBpjyNQsxmsEl5SBRQoGhwX4hLJ5MVrir\nr1KuoCmKYoBXy3GCa9VLf6oj8t+J7USPEg7EIXixfW3KPRbxUC/9jFZQtlL3bRJV\no1QExTIxAgMBAAECggEAFgcpNKoO6QjnNSHDXwh1yC/7lcZW0VTlnini03EsL+BE\n0Ctq47W6DG+6iTKwh6aY825cvnO5Bj4fZZMdrJWGYtNHyD0dseq75xkvjysj9X35\nS7WVBQ410GIlPClTe343yWIw5E7K6IQrlBvbsjusbI5V8Yjc3MkpL5GHV2BL7FbW\nHj0xCESfhkrHbCJ1shGd1HHVu0WYfzyC3e1Db6h+Vc6xF4Ssv+TAMTZP+hAb+eKL\ntgkOcG71ttL7tfliR/bKt/Us6SlWQIX0+O8tcFNMJ9ejNE0sqvJk98T1VUC8IaG1\nOkthVoDzBdlIvVoKzRuxqZVu2jSSktnggP0oR7llMQKBgQDm6QfKQMguOqeWnWU8\nxuw9MbpGyyv1xR46M/0t0uCkvP+ZAyvIzxfoFmDWrpIP+d3Kp211yjsiOtop0buh\nOdiSgPsKs6PI/63fUk5a2N3tYOHVqYhfWdDF9wV2WZfVPTYaOOo5R1EdJ1loMOuC\n7vJR7ga/4gG84z6DzqY+fWDj1wKBgQDB1CJ3PZJGMtBCaOEJi8PjC6Yj3S0pOuYG\nJyxDGwYxgC0n2q6ZFquCLBmhUIaG6lw/qGkr9MH0sIpcb2kbLfNWd8r4laT15eOq\noaGWQPbM/gXCk0xspDt9zEt/qG+/nO9WHMLRVjeHWk3mD0p2pR2gYzdIJsFq+3LI\nZJYIcGXZNwKBgQCRwC+Zm3B/tahI6oqXZVyCd9wDiYTy+fxNcrlxbjU75sxTMew2\nMXn+lfmEKOarTOWRYEM4YXEX9xvz353Wc6PfPai4JZHRcom2d8Zbk53pkwiZjAw3\nW4LrIjQBcyXihGOdA6Xch8aMZ2UI3jAaEmdEDcGW5rqAFtRD8HGA6jT5OwKBgQCO\nRpLOCCoY0S/Br46QHUG6pVBcvvtpakxyc8qvr2SKbVW4DXNf+B4IvSpLGPrGib0R\nFSOuGklMvVGyrCzwwHgAHoqkkeO2g/rrwx0DV8hRjJzZyJmunZb1rkI1AISWmDGu\negoe8zRrbEQF/W9hS65Fjs6Dbb9IMi59HihrJWX9XQKBgEt77d3K4Wg8R15G/k16\nPTry7cuJ2gtB/P3CsqYxW3n0t+NgrHZp1YznMfHQK4cRxRr89gS23CqaOdn6ABs1\nxriddYabAsyPbbfZIFBfOtA3jXwg1/my8kGUxajHtmg3d85cEwyfkdd8UgHGePN1\nLa1w3b8FLZV6SJpoBjqMPnZD\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3otju@rentalbike-28d8d.iam.gserviceaccount.com",
+  "client_id": "101761892594858923340",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3otju%40rentalbike-28d8d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,15 @@
+.coupons-page {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  margin-top: 80px;
+}
+
+.coupons-list {
+  margin-top: 20px;
+}
+
+.coupon {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}

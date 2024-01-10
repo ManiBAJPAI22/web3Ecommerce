@@ -1,0 +1,33 @@
+.dashboard {
+  background-color: #f4f4f4;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+.profile-picture {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture img {
+  border-radius: 75px; /*Makes the image circular */
+  border: 3px solid #007bff; /* Blue border around the image */
+  box-shadow: 0px 0px 10px #aaa; /* Adds a subtle shadow */
+}
+
+.user-info {
+  color: #333;
+  font-size: 18px; /* Adjust as needed */
+  margin: 20px 0; /* Spacing between items */
+}
+
+.user-info-label {
+  font-weight: bold;
+}

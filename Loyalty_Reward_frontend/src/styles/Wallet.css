@@ -1,0 +1,43 @@
+.wallet-page {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  margin-top: 80px;
+}
+
+.profile-details {
+  display: flex;
+  align-items: center;
+}
+
+.profile-details img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.wallets {
+  margin-top: 20px;
+}
+
+.wallet {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.coupons p {
+  margin: 5px 0;
+}
+
+.total-loyalty-points {
+  font-weight: bold;
+}
+
+/* Style for the View All Coupons link */
+.wallet .coupons a {
+  text-decoration: none;
+  color: #007bff;
+  display: block;
+  margin-top: 10px;
+}
